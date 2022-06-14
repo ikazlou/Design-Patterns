@@ -13,3 +13,4 @@ C:\Patterns\src\AbstractFactory\obj\Debug\net5.0\AbstractFactory.dll
 C:\Patterns\src\AbstractFactory\obj\Debug\net5.0\ref\AbstractFactory.dll
 C:\Patterns\src\AbstractFactory\obj\Debug\net5.0\AbstractFactory.pdb
 C:\Patterns\src\AbstractFactory\obj\Debug\net5.0\AbstractFactory.genruntimeconfig.cache
+C:\Patterns\src\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csproj.AssemblyReference.cache
