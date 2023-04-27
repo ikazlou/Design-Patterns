@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\IlliaKazlou\\.nuget\\packages\\": {}
@@ -13,26 +13,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Patterns\\src\\AbstractFactory\\AbstractFactory.csproj",
-      "projectName": "AbstractFactory",
-      "projectPath": "C:\\Patterns\\src\\AbstractFactory\\AbstractFactory.csproj",
+      "projectUniqueName": "C:\\Patterns\\src\\Factory\\Factory\\Factory.csproj",
+      "projectName": "Factory",
+      "projectPath": "C:\\Patterns\\src\\Factory\\Factory\\Factory.csproj",
       "packagesPath": "C:\\Users\\IlliaKazlou\\.nuget\\packages\\",
-      "outputPath": "C:\\Patterns\\src\\AbstractFactory\\obj\\",
+      "outputPath": "C:\\Patterns\\src\\Factory\\Factory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\IlliaKazlou\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net6.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {},
         "https://nuget.pkg.github.com/Intelliflo/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -43,8 +43,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
