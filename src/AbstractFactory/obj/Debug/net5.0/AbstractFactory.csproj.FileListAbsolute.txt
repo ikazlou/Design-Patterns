@@ -3,7 +3,6 @@ C:\Patterns\src\AbstractFactory\bin\Debug\net5.0\AbstractFactory.deps.json
 C:\Patterns\src\AbstractFactory\bin\Debug\net5.0\AbstractFactory.runtimeconfig.json
 C:\Patterns\src\AbstractFactory\bin\Debug\net5.0\AbstractFactory.runtimeconfig.dev.json
 C:\Patterns\src\AbstractFactory\bin\Debug\net5.0\AbstractFactory.dll
-C:\Patterns\src\AbstractFactory\bin\Debug\net5.0\ref\AbstractFactory.dll
 C:\Patterns\src\AbstractFactory\bin\Debug\net5.0\AbstractFactory.pdb
 C:\Patterns\src\AbstractFactory\obj\Debug\net5.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
 C:\Patterns\src\AbstractFactory\obj\Debug\net5.0\AbstractFactory.AssemblyInfoInputs.cache
@@ -14,3 +13,4 @@ C:\Patterns\src\AbstractFactory\obj\Debug\net5.0\ref\AbstractFactory.dll
 C:\Patterns\src\AbstractFactory\obj\Debug\net5.0\AbstractFactory.pdb
 C:\Patterns\src\AbstractFactory\obj\Debug\net5.0\AbstractFactory.genruntimeconfig.cache
 C:\Patterns\src\AbstractFactory\obj\Debug\net5.0\AbstractFactory.csproj.AssemblyReference.cache
+C:\Patterns\src\AbstractFactory\obj\Debug\net5.0\refint\AbstractFactory.dll

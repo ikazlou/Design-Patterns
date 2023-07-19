@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Patterns\\src\\Factory\\Factory\\FabricMethod.csproj",
-      "projectName": "FabricMethod",
-      "projectPath": "C:\\Patterns\\src\\Factory\\Factory\\FabricMethod.csproj",
+      "projectUniqueName": "C:\\Patterns\\src\\ClassicFactory\\ClassicFactory\\ClassicFactory.csproj",
+      "projectName": "ClassicFactory",
+      "projectPath": "C:\\Patterns\\src\\ClassicFactory\\ClassicFactory\\ClassicFactory.csproj",
       "packagesPath": "C:\\Users\\IlliaKazlou\\.nuget\\packages\\",
-      "outputPath": "C:\\Patterns\\src\\Factory\\Factory\\obj\\",
+      "outputPath": "C:\\Patterns\\src\\ClassicFactory\\ClassicFactory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\IlliaKazlou\\AppData\\Roaming\\NuGet\\NuGet.Config",

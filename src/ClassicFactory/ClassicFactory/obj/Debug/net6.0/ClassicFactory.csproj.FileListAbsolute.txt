@@ -1,0 +1,5 @@
+C:\Patterns\src\ClassicFactory\ClassicFactory\obj\Debug\net6.0\ClassicFactory.csproj.AssemblyReference.cache
+C:\Patterns\src\ClassicFactory\ClassicFactory\obj\Debug\net6.0\ClassicFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Patterns\src\ClassicFactory\ClassicFactory\obj\Debug\net6.0\ClassicFactory.AssemblyInfoInputs.cache
+C:\Patterns\src\ClassicFactory\ClassicFactory\obj\Debug\net6.0\ClassicFactory.AssemblyInfo.cs
+C:\Patterns\src\ClassicFactory\ClassicFactory\obj\Debug\net6.0\ClassicFactory.csproj.CoreCompileInputs.cache

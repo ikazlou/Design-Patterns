@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v8PC1FnsOaDp0i1RrNSDtmeQM+R5Kxfb11eXBeIoRvlZYalXmcOUk76mFJ1CDhMRin9hKFkOjXNqrvJPplel7w==",
+  "dgSpecHash": "PQDNesDqe2//G6Mnf8J7qMqnqf88BpANDDm0YET/T2aXiDWnJfpciaCg9DhgnTzoIBWSw3xY9J9X1b19mDvs2g==",
   "success": true,
-  "projectFilePath": "C:\\Patterns\\src\\Factory\\Factory\\Factory.csproj",
+  "projectFilePath": "C:\\Patterns\\src\\Factory\\Factory\\FabricMethod.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
