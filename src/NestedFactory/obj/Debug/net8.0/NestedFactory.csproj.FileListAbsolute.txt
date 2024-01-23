@@ -1,0 +1,15 @@
+C:\Work\Design-Patterns\src\NestedFactory\bin\Debug\net8.0\NestedFactory.exe
+C:\Work\Design-Patterns\src\NestedFactory\bin\Debug\net8.0\NestedFactory.deps.json
+C:\Work\Design-Patterns\src\NestedFactory\bin\Debug\net8.0\NestedFactory.runtimeconfig.json
+C:\Work\Design-Patterns\src\NestedFactory\bin\Debug\net8.0\NestedFactory.dll
+C:\Work\Design-Patterns\src\NestedFactory\bin\Debug\net8.0\NestedFactory.pdb
+C:\Work\Design-Patterns\src\NestedFactory\obj\Debug\net8.0\NestedFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Design-Patterns\src\NestedFactory\obj\Debug\net8.0\NestedFactory.AssemblyInfoInputs.cache
+C:\Work\Design-Patterns\src\NestedFactory\obj\Debug\net8.0\NestedFactory.AssemblyInfo.cs
+C:\Work\Design-Patterns\src\NestedFactory\obj\Debug\net8.0\NestedFactory.csproj.CoreCompileInputs.cache
+C:\Work\Design-Patterns\src\NestedFactory\obj\Debug\net8.0\NestedFactory.sourcelink.json
+C:\Work\Design-Patterns\src\NestedFactory\obj\Debug\net8.0\NestedFactory.dll
+C:\Work\Design-Patterns\src\NestedFactory\obj\Debug\net8.0\refint\NestedFactory.dll
+C:\Work\Design-Patterns\src\NestedFactory\obj\Debug\net8.0\NestedFactory.pdb
+C:\Work\Design-Patterns\src\NestedFactory\obj\Debug\net8.0\NestedFactory.genruntimeconfig.cache
+C:\Work\Design-Patterns\src\NestedFactory\obj\Debug\net8.0\ref\NestedFactory.dll

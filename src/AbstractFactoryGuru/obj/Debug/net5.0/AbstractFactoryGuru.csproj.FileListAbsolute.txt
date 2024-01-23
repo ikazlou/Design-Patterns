@@ -1,0 +1,16 @@
+C:\Work\Design-Patterns\src\AbstractFactoryGuru\bin\Debug\net5.0\AbstractFactoryGuru.exe
+C:\Work\Design-Patterns\src\AbstractFactoryGuru\bin\Debug\net5.0\AbstractFactoryGuru.deps.json
+C:\Work\Design-Patterns\src\AbstractFactoryGuru\bin\Debug\net5.0\AbstractFactoryGuru.runtimeconfig.json
+C:\Work\Design-Patterns\src\AbstractFactoryGuru\bin\Debug\net5.0\AbstractFactoryGuru.runtimeconfig.dev.json
+C:\Work\Design-Patterns\src\AbstractFactoryGuru\bin\Debug\net5.0\AbstractFactoryGuru.dll
+C:\Work\Design-Patterns\src\AbstractFactoryGuru\bin\Debug\net5.0\AbstractFactoryGuru.pdb
+C:\Work\Design-Patterns\src\AbstractFactoryGuru\obj\Debug\net5.0\AbstractFactoryGuru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Design-Patterns\src\AbstractFactoryGuru\obj\Debug\net5.0\AbstractFactoryGuru.AssemblyInfoInputs.cache
+C:\Work\Design-Patterns\src\AbstractFactoryGuru\obj\Debug\net5.0\AbstractFactoryGuru.AssemblyInfo.cs
+C:\Work\Design-Patterns\src\AbstractFactoryGuru\obj\Debug\net5.0\AbstractFactoryGuru.csproj.CoreCompileInputs.cache
+C:\Work\Design-Patterns\src\AbstractFactoryGuru\obj\Debug\net5.0\AbstractFactoryGuru.sourcelink.json
+C:\Work\Design-Patterns\src\AbstractFactoryGuru\obj\Debug\net5.0\AbstractFactoryGuru.dll
+C:\Work\Design-Patterns\src\AbstractFactoryGuru\obj\Debug\net5.0\refint\AbstractFactoryGuru.dll
+C:\Work\Design-Patterns\src\AbstractFactoryGuru\obj\Debug\net5.0\AbstractFactoryGuru.pdb
+C:\Work\Design-Patterns\src\AbstractFactoryGuru\obj\Debug\net5.0\AbstractFactoryGuru.genruntimeconfig.cache
+C:\Work\Design-Patterns\src\AbstractFactoryGuru\obj\Debug\net5.0\ref\AbstractFactoryGuru.dll
