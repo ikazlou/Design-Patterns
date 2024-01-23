@@ -1,5 +1,0 @@
-C:\Patterns\src\Factory\Factory\obj\Debug\net6.0\FabricMethod.csproj.AssemblyReference.cache
-C:\Patterns\src\Factory\Factory\obj\Debug\net6.0\FabricMethod.GeneratedMSBuildEditorConfig.editorconfig
-C:\Patterns\src\Factory\Factory\obj\Debug\net6.0\FabricMethod.AssemblyInfoInputs.cache
-C:\Patterns\src\Factory\Factory\obj\Debug\net6.0\FabricMethod.AssemblyInfo.cs
-C:\Patterns\src\Factory\Factory\obj\Debug\net6.0\FabricMethod.csproj.CoreCompileInputs.cache

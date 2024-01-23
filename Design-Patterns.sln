@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory", "src\AbstractFactory\AbstractFactory.csproj", "{B5F7B16F-90BB-40B1-B0CD-EEAB8CC1D47B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactoryGuru", "src\AbstractFactoryGuru\AbstractFactoryGuru.csproj", "{B5F7B16F-90BB-40B1-B0CD-EEAB8CC1D47B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FabricMethod", "src\Factory\Factory\FabricMethod.csproj", "{B6484884-FF1B-4A81-8512-0CD20508D40C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassicFactory", "src\ClassicFactory\ClassicFactory.csproj", "{B331B1CA-C31D-4D6F-9918-971A61E1DE8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassicFactory", "src\ClassicFactory\ClassicFactory\ClassicFactory.csproj", "{78F775B2-B773-461F-985D-C4A3626B480B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabricMethod", "src\FabricMethod\FabricMethod.csproj", "{5AA9C03D-E3FB-4696-9DBF-C3B13F186393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedFactory", "src\NestedFactory\NestedFactory.csproj", "{7EDFC1B4-19E1-4566-9F86-7BECA8DF031B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +21,18 @@ Global
 		{B5F7B16F-90BB-40B1-B0CD-EEAB8CC1D47B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5F7B16F-90BB-40B1-B0CD-EEAB8CC1D47B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5F7B16F-90BB-40B1-B0CD-EEAB8CC1D47B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B6484884-FF1B-4A81-8512-0CD20508D40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B6484884-FF1B-4A81-8512-0CD20508D40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B6484884-FF1B-4A81-8512-0CD20508D40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B6484884-FF1B-4A81-8512-0CD20508D40C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{78F775B2-B773-461F-985D-C4A3626B480B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{78F775B2-B773-461F-985D-C4A3626B480B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{78F775B2-B773-461F-985D-C4A3626B480B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{78F775B2-B773-461F-985D-C4A3626B480B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B331B1CA-C31D-4D6F-9918-971A61E1DE8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B331B1CA-C31D-4D6F-9918-971A61E1DE8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B331B1CA-C31D-4D6F-9918-971A61E1DE8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B331B1CA-C31D-4D6F-9918-971A61E1DE8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AA9C03D-E3FB-4696-9DBF-C3B13F186393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA9C03D-E3FB-4696-9DBF-C3B13F186393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA9C03D-E3FB-4696-9DBF-C3B13F186393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA9C03D-E3FB-4696-9DBF-C3B13F186393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EDFC1B4-19E1-4566-9F86-7BECA8DF031B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EDFC1B4-19E1-4566-9F86-7BECA8DF031B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EDFC1B4-19E1-4566-9F86-7BECA8DF031B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EDFC1B4-19E1-4566-9F86-7BECA8DF031B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
