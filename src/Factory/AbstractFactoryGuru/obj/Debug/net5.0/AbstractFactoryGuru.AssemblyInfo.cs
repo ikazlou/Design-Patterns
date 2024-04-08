@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AbstractFactoryGuru")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5d02c8d494da3e58da7fa052b8509b069989649")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+850cd1025041485cffc4838a878b6eda77ef162c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AbstractFactoryGuru")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AbstractFactoryGuru")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

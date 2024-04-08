@@ -11,7 +11,7 @@
             // await foo.InitAsync();
 
             // Второй вариант
-            //var foo = await Foo.CreateAsync();
+            var foo = await Foo.CreateAsync();
 
             // Третий вариант
             var newFoo = AsyncFactory.Create<Foo>();
