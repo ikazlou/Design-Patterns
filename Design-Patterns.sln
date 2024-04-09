@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedFactory", "src\Factor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "src\Factory\AbstractFactory\AbstractFactory.csproj", "{8795D103-F3FD-4EF9-9222-E1D99BF6F7D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Self-preporation", "src\Factory\Self-preporation\Self-preporation.csproj", "{0D622A37-E05F-49EA-A54B-0AEDC5A0BAFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{8795D103-F3FD-4EF9-9222-E1D99BF6F7D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8795D103-F3FD-4EF9-9222-E1D99BF6F7D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8795D103-F3FD-4EF9-9222-E1D99BF6F7D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D622A37-E05F-49EA-A54B-0AEDC5A0BAFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D622A37-E05F-49EA-A54B-0AEDC5A0BAFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D622A37-E05F-49EA-A54B-0AEDC5A0BAFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D622A37-E05F-49EA-A54B-0AEDC5A0BAFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -61,5 +67,6 @@ Global
 		{AABB851F-762B-4518-9EB3-20629E11F92D} = {1071FFD4-9943-42F4-8CD4-427B40E3A927}
 		{9BF61F87-2EF0-43E1-A203-8B287DA1D793} = {1071FFD4-9943-42F4-8CD4-427B40E3A927}
 		{8795D103-F3FD-4EF9-9222-E1D99BF6F7D3} = {1071FFD4-9943-42F4-8CD4-427B40E3A927}
+		{0D622A37-E05F-49EA-A54B-0AEDC5A0BAFA} = {1071FFD4-9943-42F4-8CD4-427B40E3A927}
 	EndGlobalSection
 EndGlobal
