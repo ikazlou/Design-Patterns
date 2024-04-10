@@ -19,6 +19,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "src\Fact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Self-preporation", "src\Factory\Self-preporation\Self-preporation.csproj", "{0D622A37-E05F-49EA-A54B-0AEDC5A0BAFA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Command", "Command", "{69600C0E-9FF3-4B88-A7DC-6266B18788A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "src\Command\MainLogic\Command.csproj", "{9F4E08E8-60BC-42D2-8454-D353E86CE1DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command_UndoOperation", "src\Command\Command_UndoOperation\Command_UndoOperation.csproj", "{B26E9C15-854F-4E9C-B178-D5214F1C5E4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +59,14 @@ Global
 		{0D622A37-E05F-49EA-A54B-0AEDC5A0BAFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D622A37-E05F-49EA-A54B-0AEDC5A0BAFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D622A37-E05F-49EA-A54B-0AEDC5A0BAFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F4E08E8-60BC-42D2-8454-D353E86CE1DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F4E08E8-60BC-42D2-8454-D353E86CE1DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F4E08E8-60BC-42D2-8454-D353E86CE1DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F4E08E8-60BC-42D2-8454-D353E86CE1DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B26E9C15-854F-4E9C-B178-D5214F1C5E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B26E9C15-854F-4E9C-B178-D5214F1C5E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B26E9C15-854F-4E9C-B178-D5214F1C5E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B26E9C15-854F-4E9C-B178-D5214F1C5E4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -68,5 +82,7 @@ Global
 		{9BF61F87-2EF0-43E1-A203-8B287DA1D793} = {1071FFD4-9943-42F4-8CD4-427B40E3A927}
 		{8795D103-F3FD-4EF9-9222-E1D99BF6F7D3} = {1071FFD4-9943-42F4-8CD4-427B40E3A927}
 		{0D622A37-E05F-49EA-A54B-0AEDC5A0BAFA} = {1071FFD4-9943-42F4-8CD4-427B40E3A927}
+		{9F4E08E8-60BC-42D2-8454-D353E86CE1DF} = {69600C0E-9FF3-4B88-A7DC-6266B18788A3}
+		{B26E9C15-854F-4E9C-B178-D5214F1C5E4D} = {69600C0E-9FF3-4B88-A7DC-6266B18788A3}
 	EndGlobalSection
 EndGlobal

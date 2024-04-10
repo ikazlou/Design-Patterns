@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NestedFactory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41aa57192e0a677abb347699f7c412913d638a3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c18fdb134b7294d7398f42f680710d6c8db788e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("NestedFactory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NestedFactory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
