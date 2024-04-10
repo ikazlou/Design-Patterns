@@ -2,28 +2,28 @@
 
 public class BankAccountCommand
 {
-    private BankAccount account;
-    private Action action;
-    private int amount;
+    private readonly BankAccount _account;
+    private readonly Action _action;
+    private readonly int _amount;
 
     public BankAccountCommand(BankAccount account, Action action, int amount)
     {
-        this.account = account;
-        this.action = action;
-        this.amount = amount;
+        _account = account;
+        _action = action;
+        _amount = amount;
     }
 
     // Этот метот по вызову команды может быть реализован по разному
     // речь выше идет о хэндленге этой команды
     public void Call()
     {
-        switch (action)
+        switch (_action)
         {
             case Action.Deposit:
-                account.Deposit(amount);
+                _account.Deposit(_amount);
                 break;
             case Action.Withdraw:
-                account.Withdraw(amount);
+                _account.Withdraw(_amount);
                 break;
         }
     }

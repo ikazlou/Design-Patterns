@@ -3,7 +3,7 @@
 public class BankAccount
 {
     private int balance;
-    private int overdraftLimit = -500;
+    private readonly int overdraftLimit = -500;
 
     public BankAccount(int balance)
     {

@@ -2,5 +2,6 @@
 
 public enum Action
 {
-    Deposit, Withdraw
+    Deposit,
+    Withdraw
 }

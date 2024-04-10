@@ -3,7 +3,7 @@
 public class BankAccount
 {
     private int balance;
-    private int overdraftLimit = -500;
+    private readonly int _overdraftLimit = -500;
 
     public void Deposit(int amount)
     {
@@ -13,7 +13,7 @@ public class BankAccount
 
     public void Withdraw(int amount)
     {
-        if (balance - amount >= overdraftLimit)
+        if (balance - amount >= _overdraftLimit)
         {
             balance -= amount;
             Console.WriteLine($"Withdrew ${amount}, balance = ${balance}");
