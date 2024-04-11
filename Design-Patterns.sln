@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "src\Command\Main
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command_UndoOperation", "src\Command\Command_UndoOperation\Command_UndoOperation.csproj", "{B26E9C15-854F-4E9C-B178-D5214F1C5E4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command_CompоsiteCommand", "src\Command\Command_CompоsiteCommand\Command_CompоsiteCommand.csproj", "{88EA6BD2-7BDB-42CC-A078-F980DD1DCD9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{B26E9C15-854F-4E9C-B178-D5214F1C5E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B26E9C15-854F-4E9C-B178-D5214F1C5E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B26E9C15-854F-4E9C-B178-D5214F1C5E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88EA6BD2-7BDB-42CC-A078-F980DD1DCD9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88EA6BD2-7BDB-42CC-A078-F980DD1DCD9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88EA6BD2-7BDB-42CC-A078-F980DD1DCD9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88EA6BD2-7BDB-42CC-A078-F980DD1DCD9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -84,5 +90,6 @@ Global
 		{0D622A37-E05F-49EA-A54B-0AEDC5A0BAFA} = {1071FFD4-9943-42F4-8CD4-427B40E3A927}
 		{9F4E08E8-60BC-42D2-8454-D353E86CE1DF} = {69600C0E-9FF3-4B88-A7DC-6266B18788A3}
 		{B26E9C15-854F-4E9C-B178-D5214F1C5E4D} = {69600C0E-9FF3-4B88-A7DC-6266B18788A3}
+		{88EA6BD2-7BDB-42CC-A078-F980DD1DCD9B} = {69600C0E-9FF3-4B88-A7DC-6266B18788A3}
 	EndGlobalSection
 EndGlobal
