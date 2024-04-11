@@ -1,4 +1,4 @@
-﻿namespace Command_CompositeCommand;
+﻿namespace Command_CompositeCommand.Commands;
 
 public class CompositeBankAccountCommand : List<BankAccountCommand>, ICommand
 {

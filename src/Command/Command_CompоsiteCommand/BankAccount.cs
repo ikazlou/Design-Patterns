@@ -30,7 +30,7 @@
 
         public override string ToString()
         {
-            return $"{nameof(_balance)}: {_balance}";
+            return $"Balance: {_balance}";
         }
     }
 }

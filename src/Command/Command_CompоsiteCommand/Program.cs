@@ -1,4 +1,6 @@
-﻿namespace Command_CompositeCommand
+﻿using Command_CompositeCommand.Commands;
+
+namespace Command_CompositeCommand
 {
     public static class Program
     {
