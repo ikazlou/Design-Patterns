@@ -1,4 +1,4 @@
-﻿namespace Self_preporation
+﻿namespace Factory_Homework
 {
     internal class Program
     {
