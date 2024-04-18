@@ -1,4 +1,4 @@
-﻿namespace BuilderGuru;
+﻿namespace Builder_Guru;
 
 
 // Директор отвечает только за выполнение шагов построения в определённой

@@ -33,9 +33,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Builder", "Builder", "{969A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "src\Builder\Builder\Builder.csproj", "{DA7BF47E-4129-4389-B986-313925AA80E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderGuru", "src\Builder\BuilderGuru\BuilderGuru.csproj", "{0471D810-F303-496C-8891-87BAE9C2C677}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder_Guru", "src\Builder\Builder_Guru\Builder_Guru.csproj", "{0471D810-F303-496C-8891-87BAE9C2C677}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder_WithFluentInterface", "src\Builder\Builder_WithFluentInterface\Builder_WithFluentInterface.csproj", "{1DCE125C-0504-45A1-9008-6932E9B86B69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder_Multifunctional", "src\Builder\Builder_Multifunctional\Builder_Multifunctional.csproj", "{5668C643-5D36-4CB3-8E33-A822437E86CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{1DCE125C-0504-45A1-9008-6932E9B86B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DCE125C-0504-45A1-9008-6932E9B86B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DCE125C-0504-45A1-9008-6932E9B86B69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5668C643-5D36-4CB3-8E33-A822437E86CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5668C643-5D36-4CB3-8E33-A822437E86CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5668C643-5D36-4CB3-8E33-A822437E86CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5668C643-5D36-4CB3-8E33-A822437E86CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -121,5 +127,6 @@ Global
 		{DA7BF47E-4129-4389-B986-313925AA80E0} = {969A3DB8-EF0E-442D-BC90-85416A633C12}
 		{0471D810-F303-496C-8891-87BAE9C2C677} = {969A3DB8-EF0E-442D-BC90-85416A633C12}
 		{1DCE125C-0504-45A1-9008-6932E9B86B69} = {969A3DB8-EF0E-442D-BC90-85416A633C12}
+		{5668C643-5D36-4CB3-8E33-A822437E86CC} = {969A3DB8-EF0E-442D-BC90-85416A633C12}
 	EndGlobalSection
 EndGlobal

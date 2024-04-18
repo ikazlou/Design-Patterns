@@ -1,4 +1,4 @@
-﻿namespace BuilderGuru;
+﻿namespace Builder_Guru;
 
 static class Program
 {
