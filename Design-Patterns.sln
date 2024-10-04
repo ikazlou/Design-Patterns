@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder_WithFluentInterface
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder_Multifunctional", "src\Builder\Builder_Multifunctional\Builder_Multifunctional.csproj", "{5668C643-5D36-4CB3-8E33-A822437E86CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseMediator", "src\BaseMediator\BaseMediator.csproj", "{BD4611FD-2AD2-482A-9F46-59A5C1CA1BD9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mediator", "Mediator", "{16CEA769-3BC9-4B7E-8161-074374AB255D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,10 @@ Global
 		{5668C643-5D36-4CB3-8E33-A822437E86CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5668C643-5D36-4CB3-8E33-A822437E86CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5668C643-5D36-4CB3-8E33-A822437E86CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD4611FD-2AD2-482A-9F46-59A5C1CA1BD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD4611FD-2AD2-482A-9F46-59A5C1CA1BD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD4611FD-2AD2-482A-9F46-59A5C1CA1BD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD4611FD-2AD2-482A-9F46-59A5C1CA1BD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -128,5 +136,6 @@ Global
 		{0471D810-F303-496C-8891-87BAE9C2C677} = {969A3DB8-EF0E-442D-BC90-85416A633C12}
 		{1DCE125C-0504-45A1-9008-6932E9B86B69} = {969A3DB8-EF0E-442D-BC90-85416A633C12}
 		{5668C643-5D36-4CB3-8E33-A822437E86CC} = {969A3DB8-EF0E-442D-BC90-85416A633C12}
+		{BD4611FD-2AD2-482A-9F46-59A5C1CA1BD9} = {16CEA769-3BC9-4B7E-8161-074374AB255D}
 	EndGlobalSection
 EndGlobal
