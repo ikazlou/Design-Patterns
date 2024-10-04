@@ -14,7 +14,8 @@ public class PersonBuilder // Facade
         Person = person;
     }
 
-    public PersonAddressBuilder Lives => new(Person);
+    public PersonAddressBuilder Lives => new(person: Person);
+
     public PersonJobBuilder Works => new(Person);
 
     public static implicit operator Person(PersonBuilder personBuilder)
